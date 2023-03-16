@@ -8,10 +8,13 @@ This is a simple QR code generator project using JavaScript, HTML & CSS, which a
 3. Click the "Generate QR Code" button
 4. The generated QR code will appear on the page
 
-## Project Structure:
+## Project Structure
 - index.html - The HTML file containing the input field, generate button and the container for the generated QR code.
 
 - script.js - The JavaScript file containing the code to generate the QR code
+
+## Credits
+Credit to CodingNepal for concept
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
