@@ -1,6 +1,8 @@
 # QR-Code Generator
-
 This is a simple QR code generator project using JavaScript, HTML & CSS, which allows you to generate a QR code from a text input or URL
+
+## Deploy Link
+[Deployed Page](https://jacobdangcs.github.io/qr-generator/)
 
 ## How to Use
 1. Open from GitHub Pages OR clone repository and use locally
