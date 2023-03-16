@@ -13,6 +13,9 @@ This is a simple QR code generator project using JavaScript, HTML & CSS, which a
 
 - script.js - The JavaScript file containing the code to generate the QR code
 
+## API
+Utilizes `https://goqr.me/api/` as a QR generator
+
 ## Credits
 Credit to CodingNepal for concept
 
